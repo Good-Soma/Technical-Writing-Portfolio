@@ -1,2 +1,10 @@
-# Portfolio-
-This repository contains well researched, and easy to follow tutorial, articles, user's guide etc. about topics or ideas in programming languages, frameworks, libraries, web development,  design, security, and deployment etc. Having a glance will be very blissful if you are interested in these areas of computation.
+# Your Expectation
+This repository contains well researched, and easy to follow tutorial, articles, user's guide, and manuals etc. about topics or ideas in:
+<ul>
+programming languages, 
+frameworks, libraries, 
+web development,  design, 
+cybersecurity, 
+and deployment strategies etc. 
+</ul>
+Take a glance to boost your joy, because of easy articulation you will find the documantation to be.
