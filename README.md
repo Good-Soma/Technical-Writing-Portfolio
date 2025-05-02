@@ -1,9 +1,25 @@
-# What to expect from this repo!
-This repository contains well researched, and easy to follow tutorial, articles, user's guide, and manuals etc. about topics or ideas in:
-<ul>
-<li>Programming languages</li>
-<li>Frameworks and libraries </li>
-<li>Web design and development</li>
-<li> Cyber security and the security strategy and skill you need for your application</li>
-</ul>
- Dive in, if you have any interest to understand any if the topic listed above. 
+# Technical Writing Portfolio
+
+Welcome! This repository contains my technical writing samples and tutorials on software tools, infrastructure, and development workflows.
+
+## Articles by Category
+
+### Memphis.dev
+- [Getting Started with Memphis](memphis-dev/getting-started-with-memphis.md)
+- [Memphis vs. Apache Kafka](memphis-dev/memphis-vs-kafka.md)
+
+### Docker
+- [Docker Compose Setup Guide](docker/docker-compose-setup.md)
+- [Managing Docker Containers](docker/managing-containers-guide.md)
+
+### Linux
+- [Ubuntu Setup Guide](linux/ubuntu-setup-guide.md)
+- [Useful Terminal Shortcuts](linux/terminal-shortcuts.md)
+
+---
+
+These writings are intended to help developers and companies understand tools quickly and clearly.
+
+## About Me
+
+I'm a technical writer based in Nigeria, passionate about creating user-friendly software guides. Contact me at [somadinag@aol.com] or on [LinkedIn](https://www.linkedin.com/in/goodluck-chukwuemeka21?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
