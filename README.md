@@ -22,4 +22,4 @@ These writings are intended to help developers and companies understand tools qu
 
 ## About Me
 
-I'm a technical writer based in Nigeria, passionate about creating user-friendly software guides. Contact me at [somadinag@aol.com] or on [LinkedIn](https://www.linkedin.com/in/goodluck-chukwuemeka21?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+I'm a technical writer based in Nigeria, passionate about creating user-friendly software guides. Contact me at [somadinag@aol.com] or send a WhatsApp message to +234-7088361006 for quick response to your inquiry.
