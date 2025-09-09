@@ -23,3 +23,5 @@ These writings are intended to help developers and companies understand tools qu
 ## About Me
 
 I'm a technical writer based in Nigeria, passionate about creating user-friendly software guides. Contact me at [somadinag@aol.com] or send a WhatsApp message to +234-7088361006 for quick response to your inquiry.
+
+[![DEV.to](https://img.shields.io/badge/DEV.to-Blog-black?logo=dev.to&style=for-the-badge)](https://dev.to/somadinag)
